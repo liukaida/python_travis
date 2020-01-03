@@ -43,5 +43,4 @@ notifications:
 env:
   global:
     # 定义往哪个仓库推送代码，注意事项见下面
-    - GH_TOKEN: github.com/liukaida/python_travis
     - GH_REF: github.com/liukaida/python_travis
