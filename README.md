@@ -2,7 +2,6 @@
 travis的python实验
 [![Build Status](https://travis-ci.org/liukaida/python_travis.svg?branch=master)](https://travis-ci.org/liukaida/python_travis)
 
-
 将上述过程转换为.travis.yml脚本，添加到Github仓库根目录中:
 
 os: linux
