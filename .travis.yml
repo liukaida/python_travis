@@ -21,6 +21,7 @@ cache:
 # 将script执行结果推送到 master 分支上
 after_script:
   # 初始化git
+  - cd ./www
   - git init
   # user.name 和 user.email 让 travis 能登录你的 github
   - git config user.name "liukai"
